@@ -1,7 +1,6 @@
 # safecox
 
-R code for "Safe Feature Screening for Adaptive Lasso Cox Model with High-Dimensional Covariates"
+R code for "A Fast Adaptive Lasso for the Cox Regression via Safe Screening Rules"
 
 
-
-Zhuan Zhang, Zhenyuan Shen, Hong Wang, and Shu Kay Ng, Safe Feature Screening for Adaptive Lasso Cox Model with High-Dimensional Covariates, submitted to "Biometrical Journal"
+Zhuan Zhang#, Zhenyuan Shen#, Hong Wang*, Shu Kay Ng. A Fast Adaptive Lasso for the Cox Regression via Safe Screening Rules, Journal of Statistical Computation and Simulation, 2021, http://dx.doi.org/10.1080/00949655.2021.1914043
